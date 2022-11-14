@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mu94155
 - 👀 I’m interested in java..
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java & python
 - 💞️ I’m looking to collaborate on making web apps.
 - 📫 How to reach me sssshanfari@yahoo.com
 
