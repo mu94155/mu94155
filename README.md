@@ -2,7 +2,7 @@
 - 👀 I’m interested in java..
 - 🌱 I’m currently learning java & python
 - 💞️ I’m looking to collaborate on making web apps.
-- 📫 How to reach me sssshanfari@yahoo.com
+- 📫 How to reach me sssshanfari@gmail.com
 
 <!---
 mu94155/mu94155 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
